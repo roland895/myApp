@@ -1,0 +1,17 @@
+
+:root {
+  --ion-color-nbcpurple: #360279;
+}
+ion-toolbar{
+  --background:   var(--ion-color-nbcpurple);
+  --color: var(--ion-color-nbcpurple-contrast)
+}
+.mainMenu{
+  --background: #fff;
+}
+.grid-label{
+  -webkit-padding-start: 8px;
+    padding-inline-start: 8px;
+    -webkit-padding-end: 8px;
+    padding-inline-end: 8px;
+}
